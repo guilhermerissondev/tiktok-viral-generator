@@ -16,7 +16,7 @@ from agent.models import Signal
 from agent.ports.radar import SourceUnavailable
 
 ENDPOINT = "https://wikimedia.org/api/rest_v1/metrics/pageviews/top"
-HEADERS = {"User-Agent": "tiktok-viral-generator/0.1 (github.com/guilhermehrsilva)"}
+HEADERS = {"User-Agent": "tiktok-viral-generator/0.1 (github.com/guilhermerissondev)"}
 
 # Paginas de servico do proprio projeto: sempre no topo, nunca sao assunto.
 _PREFIXOS_IGNORADOS = (

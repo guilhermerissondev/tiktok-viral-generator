@@ -26,7 +26,7 @@ from agent.models import Signal
 from agent.ports.radar import SourceUnavailable
 
 ONTHISDAY = "https://api.wikimedia.org/feed/v1/wikipedia/pt/onthisday/events/{mm}/{dd}"
-HEADERS = {"User-Agent": "tiktok-viral-generator/0.1 (github.com/guilhermehrsilva)"}
+HEADERS = {"User-Agent": "tiktok-viral-generator/0.1 (github.com/guilhermerissondev)"}
 
 # (tema, pagina de referencia). Tema em pt-BR, escrito como pauta.
 ARQUIVO: tuple[tuple[str, str], ...] = (

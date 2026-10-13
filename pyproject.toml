@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Agente que detecta assunto em alta em tech/IA/ciencia, ancora cada afirmacao numa fonte e produz video curto em pt-BR"
 readme = "README.md"
 authors = [
-    { name = "guilhermehrsilva", email = "guilhermehrsilva@users.noreply.github.com" }
+    { name = "guilhermerissondev", email = "guilhermerissondev@users.noreply.github.com" }
 ]
 requires-python = ">=3.12"
 dependencies = [
